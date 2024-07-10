@@ -1,0 +1,22 @@
+body{
+    background-color: hsl(185,75%,39%);
+
+
+}
+.cartao{
+
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+}
+.card{
+    width: 400px;
+    border-radius: 20px 20px 0 0;
+}
+.victor{
+    border-radius: 100%;
+    position: relative;
+    left: 10vw;
+    bottom: 7vh;
+}
